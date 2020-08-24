@@ -8,9 +8,9 @@
 **Learning Philosophy**: [Master Adjacent Disciplines](http://www.effectiveengineer.com/blog/master-adjacent-disciplines), [The Power of Tiny Gains](https://jamesclear.com/continuous-improvement), [T-shaped skills](https://en.wikipedia.org/wiki/T-shaped_skills)
 
 ### Develop a business acumen
-- [] [Book: Delivering Happiness](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220)
-- [] [Book: Good to Great: Why Some Companies Make the Leap...And Others Don't](https://www.amazon.com/Good-Great-Some-Companies-Others-ebook/dp/B0058DRUV6)
-- [] [Book: Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams](https://www.amazon.com/Hello-Startup-Programmers-Building-Technologies/dp/1491909900)
+- [ ] [Book: Delivering Happiness](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220)
+- [ ] [Book: Good to Great: Why Some Companies Make the Leap...And Others Don't](https://www.amazon.com/Good-Great-Some-Companies-Others-ebook/dp/B0058DRUV6)
+- [ ] [Book: Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams](https://www.amazon.com/Hello-Startup-Programmers-Building-Technologies/dp/1491909900)
 - [ ] [Book: How Google Works](https://www.howgoogleworks.net)
 - [ ] [Book: Learn to Earn: A Beginner's Guide to the Basics of Investing and Business](https://www.goodreads.com/book/show/817589.Learn_to_Earn)
 - [ ] [Book: Rework](https://www.goodreads.com/book/show/6732019-rework)
