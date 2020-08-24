@@ -1001,7 +1001,7 @@
 - [ ] [Udacity: Machine Learning for Trading](https://www.udacity.com/course/machine-learning-for-trading--ud501)
 - [ ] [Udacity: Time Series Forecasting](https://www.udacity.com/course/time-series-forecasting--ud980)
 
-### Be familiar with Reinforcement Learning
+### Be familiar with reinforcement learning
 - [ ] [DeepLizard: Reinforcement Learning - Goal Oriented Intelligence](https://www.youtube.com/playlist?list=PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv)
 	- [ ] [Reinforcement Learning Series Intro - Syllabus Overview](https://www.youtube.com/watch?v=nyjbcRQ-uQ8) `0:05:51`
 	- [ ] [Markov Decision Processes (MDPs) - Structuring a Reinforcement Learning Problem](https://www.youtube.com/watch?v=my207WNoeyA) `0:06:34`
@@ -1192,7 +1192,7 @@
 - [ ] [Youtube: PyConBY 2020: Sebastian Ramirez - Serve ML models easily with FastAPI](https://www.youtube.com/watch?v=z9K5pwb0rt8)
 - [ ] [Youtube: FastAPI from the ground up](https://www.youtube.com/watch?v=3DLwPcrE5mA)
 
-### Be familiar with fundamental Computer Science concepts
+### Be familiar with fundamental computer science concepts
 - [ ] [Codecademy: Big O](https://www.codecademy.com/courses/big-o/0/1 )
 - [ ] [Crashcourse: Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 - [ ] [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) 
@@ -1246,7 +1246,7 @@
 - [ ] [Udacity: Technical Interview](https://www.udacity.com/course/technical-interview--ud513)
 - [ ] [Youtube: Stanford CS230: Deep Learning | Autumn 2018 | Lecture 8 - Career Advice / Reading Research Papers](https://www.youtube.com/watch?v=733m6qBH-jI)
 
-### Broaden Perspective
+### Broaden your perspective
 - [ ] [Book: Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)
 - [ ] [Book: Deep Work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)
 - [ ] [Book: Outliers: The Story of Success](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930)
