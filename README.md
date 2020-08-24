@@ -9,20 +9,16 @@
 
 ### Develop a business acumen
 - [ ] [Book: Delivering Happiness](https://www.amazon.com/Delivering-Happiness-Profits-Passion-Purpose/dp/0446576220)
-- [ ] [Book: Good to Great: Why Some Companies Make the Leap...And Others Don't](https://www.amazon.com/Good-Great-Some-Companies-Others-ebook/dp/B0058DRUV6)
+- [ ] [Book: Good to Great: Why Some Companies Make the Leap...And Others Don't](https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=)
 - [ ] [Book: Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams](https://www.amazon.com/Hello-Startup-Programmers-Building-Technologies/dp/1491909900)
-- [ ] [Book: How Google Works](https://www.howgoogleworks.net)
-- [ ] [Book: Learn to Earn: A Beginner's Guide to the Basics of Investing and Business](https://www.goodreads.com/book/show/817589.Learn_to_Earn)
-- [ ] [Book: Rework](https://www.goodreads.com/book/show/6732019-rework)
-- [ ] [Book: The Airbnb Story](https://www.amazon.com/Airbnb-Story-Ordinary-Disrupted-Controversy/dp/0544952669)
+- [ ] [Book: How Google Works](https://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582328/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
+- [ ] [Book: Learn to Earn: A Beginner's Guide to the Basics of Investing and Business](https://www.amazon.com/gp/product/0684811634/ref=x_gr_w_bb_sout?ie=UTF8&tag=x_gr_w_bb_sout-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0684811634&SubscriptionId=1MGPYB6YW3HWK55XCGG2)
+- [ ] [Book: Rework](https://www.amazon.com/Rework-Change-Way-Work-Forever/dp/0091929784/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
+- [ ] [Book: The Airbnb Story](https://www.amazon.com/Airbnb-Story-Leigh-Gallagher/dp/1328745546/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
 - [ ] [Book: The Personal MBA - Master the Art of Business](https://www.amazon.com/Personal-MBA-Master-Art-Business/dp/1591845572)
-- [ ] [Facebook: Digital marketing: get started](https://learn.fb.com/skillset/marketing-started)
-- [ ] [Facebook: Digital marketing: go further](https://learn.fb.com/skillset/marketing-further)
-- [ ] [Google Analytics for Beginners](https://analytics.gotogle.com/analytics/academy/course/6)
 - [ ] [Google: Fundamentals of Digital Marketing](https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing)
 - [ ] [Moz: The Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo)
 - [ ] [Smartly: Marketing Fundamentals](https://smart.ly/course/abd47e21-4b59-4ccf-910d-fb1c18b2e9df)
-- [ ] [Treehouse: SEO Basics](https://teamtreehouse.com/library/seo-basics)
 - [ ] [Udacity: App Monetization](https://www.udacity.com/course/app-monetization--ud518)
 - [ ] [Udacity: App Marketing](https://www.udacity.com/course/app-marketing--ud719)
 - [ ] [Udacity: Get Your Startup Started](https://www.udacity.com/course/get-your-startup-started--ud806)
@@ -67,15 +63,15 @@
 - [ ] [Datacamp: Machine Learning with the Experts: School Budgets](https://www.datacamp.com/courses/machine-learning-with-the-experts-school-budgets)
 - [ ] [Datacamp: Machine Learning for Everyone](https://www.datacamp.com/courses/machine-learning-for-everyone)
 - [ ] [Datacamp: Analyzing Police Activity with pandas](https://www.datacamp.com/courses/analyzing-police-activity-with-pandas)
-- [ ] [Datacamp: Data Science for Managers](https://www.datacamp.com/courses/data-science-for-managers)
+- [ ] [Datacamp: Data Science for Business](https://www.datacamp.com/courses/data-science-for-managers)
 - [ ] [Facebook: Field Guide to Machine Learning](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
 - [ ] [Google: Art and Science of Machine Learning](https://www.coursera.org/learn/art-science-ml)
 - [ ] [Google: How Google does Machine Learning](https://www.coursera.org/learn/google-machine-learning)
 - [ ] [Google: Introduction to Machine Learning Problem Framing](https://developers.google.com/machine-learning/problem-framing)
-- [ ] [Microsoft: Define an AI strategy to create business value](https://aischool.microsoft.com/en-us/business/learning-paths/define-an-ai-strategy-to-create-business-value)
-- [ ] [Microsoft: Discover ways to foster an AI-ready culture in your business](https://aischool.microsoft.com/en-us/business/learning-paths/discover-ways-to-foster-an-ai-ready-culture-in-your-business)
-- [ ] [Microsoft: Identify guiding principles for responsible AI in your business](https://aischool.microsoft.com/en-us/business/learning-paths/identify-guiding-principles-for-responsible-ai-in-your-business)
-- [ ] [Microsoft: Introduction to AI technology for business leaders](https://aischool.microsoft.com/en-us/business/learning-paths/introduction-to-ai-technology-for-business-leaders)
+- [ ] [Microsoft: Define an AI strategy to create business value](https://docs.microsoft.com/en-us/learn/paths/ai-strategy-for-business-value/?WT.mc_id=sitertzn_homepage_mslearn-header-aibusinessschool)
+- [ ] [Microsoft: Discover ways to foster an AI-ready culture in your business](https://docs.microsoft.com/en-us/learn/paths/foster-ai-ready-culture/?WT.mc_id=sitertzn_homepage_mslearn-header-aibusinessschool)
+- [ ] [Microsoft: Identify guiding principles for responsible AI in your business]https://docs.microsoft.com/en-us/learn/paths/responsible-ai-business-principles/?WT.mc_id=sitertzn_homepage_mslearn-header-aibusinessschool)
+- [ ] [Microsoft: Introduction to AI technology for business leaders](https://docs.microsoft.com/en-us/learn/paths/ai-technology-for-business-leaders/?WT.mc_id=sitertzn_homepage_mslearn-header-aibusinessschool)
 - [ ] [Pluralsight: How to Think About Machine Learning Algorithms](https://www.pluralsight.com/courses/machine-learning-algorithms)
 - [ ] [Udacity: Problem Solving with Advanced Analytics](https://www.udacity.com/course/problem-solving-with-advanced-analytics--ud976)
 - [ ] [Youtube: Vincent Warmerdam: The profession of solving (the wrong problem) | PyData Amsterdam 2019](https://youtu.be/kYMfE9u-lMo)
@@ -93,6 +89,7 @@
 	- [ ] [Saving the world one algorithm at a time | The Age of A.I.](https://www.youtube.com/watch?v=0wy4u34fii4) `0:46:37`
 	- [ ] [How A.I. is searching for Aliens | The Age of A.I.](https://www.youtube.com/watch?v=VwtC_4t2g5M) `0:36:12`
 - [ ] [Youtube: Gradient Dissent Podcast](https://www.youtube.com/playlist?list=PLD80i8An1OEEb1jP0sjEyiLG8ULRXFob_)
+	- [ ] [Building Level 5 Autonomous Vehicles with Lyft's Anantha Kancherla](https://www.youtube.com/watch?v=HT5UcHnAzU8&list=PLD80i8An1OEEb1jP0sjEyiLG8ULRXFob_&index=2&t=0s) `0:44:31`
 	- [ ] [DeepChem creator Bharath Ramsundar on using deep learning for molecules and medicine discovery](https://www.youtube.com/watch?v=GnkpVjp117k) `0:55:11`
 	- [ ] [ML Research and Production Pipelines with Chip Huyen](https://www.youtube.com/watch?v=6adNHwE5PHY) `0:43:07`
 	- [ ] [Product Management for AI with Peter Skomoroch](https://www.youtube.com/watch?v=hSyb3xEvCrI) `1:28:14`
