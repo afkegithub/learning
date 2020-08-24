@@ -18,7 +18,7 @@
 - [ ] [Book: The Personal MBA - Master the Art of Business](https://www.amazon.com/Personal-MBA-Master-Art-Business/dp/1591845572)
 - [ ] [Facebook: Digital marketing: get started](https://learn.fb.com/skillset/marketing-started)
 - [ ] [Facebook: Digital marketing: go further](https://learn.fb.com/skillset/marketing-further)
-- [ ] [Google Analytics for Beginners](https://analytics.google.com/analytics/academy/course/6)
+- [ ] [Google Analytics for Beginners](https://analytics.gotogle.com/analytics/academy/course/6)
 - [ ] [Google: Fundamentals of Digital Marketing](https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing)
 - [ ] [Moz: The Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo)
 - [ ] [Smartly: Marketing Fundamentals](https://smart.ly/course/abd47e21-4b59-4ccf-910d-fb1c18b2e9df)
@@ -985,7 +985,7 @@
 - [ ] [Datacamp: Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
 - [ ] [Datacamp: Network Analysis in Python (Part 2)](https://www.datacamp.com/courses/network-analysis-in-python-part-2)
 
-### Be able to implement models for timeseries and forecasting
+### Be able to implement models for time series and forecasting
 - [ ] [Datacamp: Machine Learning for Finance in Python](https://www.datacamp.com/courses/machine-learning-for-finance-in-python)
 - [ ] [Datacamp: Introduction to Time Series Analysis in Python](https://www.datacamp.com/courses/introduction-to-time-series-analysis-in-python)
 - [ ] [Datacamp: Machine Learning for Time Series Data in Python](https://www.datacamp.com/courses/machine-learning-for-time-series-data-in-python)
