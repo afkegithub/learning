@@ -625,7 +625,7 @@
 	- [ ] [Neural Networks from Scratch - P.4 Batches, Layers, and Objects](https://www.youtube.com/watch?v=TEWy9vZcxW4) `0:33:46`
 	- [ ] [Neural Networks from Scratch - P.5 Hidden Layer Activation Functions](https://www.youtube.com/watch?v=gmjzbpSVY1A) `0:40:05`
 
-### Be able to implement models in scikit-learn
+### Be able to implement models in Scikit-Learn
 - [ ] [Datacamp: Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
 - [ ] [Datacamp: Machine Learning with Tree-Based Models in Python](https://www.datacamp.com/courses/machine-learning-with-tree-based-models-in-python)
 - [ ] [Datacamp: Introduction to Linear Modeling in Python](https://www.datacamp.com/courses/introduction-to-linear-modeling-in-python)
